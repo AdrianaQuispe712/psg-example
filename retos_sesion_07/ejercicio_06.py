@@ -17,7 +17,3 @@ print(nombre.ljust(10, "."))  # Resultado: 'Ana.......'
 # 5. partition() – Divide en una tupla en torno a un separador
 mensaje = "Hola mundo bonito"
 print(mensaje.partition("mundo "))  # ('Hola ', 'mundo', ' bonito')
-#
-
-#
-..
