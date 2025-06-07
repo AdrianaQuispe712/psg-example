@@ -6,3 +6,4 @@ def es_palindromo(texto):
 frase = input("Ingrese una frase : ")
 print("Es palindromo?", es_palindromo(frase))
 #
+#

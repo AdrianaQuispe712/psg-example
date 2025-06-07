@@ -5,3 +5,4 @@ c = int(input("Ingrese el tercer número: "))
 resultado = a - b - c
 print("Resultado:", resultado)
 #
+# 

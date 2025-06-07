@@ -18,3 +18,4 @@ print(nombre.ljust(10, "."))  # Resultado: 'Ana.......'
 mensaje = "Hola mundo bonito"
 print(mensaje.partition("mundo "))  # ('Hola ', 'mundo', ' bonito')
 #
+#
