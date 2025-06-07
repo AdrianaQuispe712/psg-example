@@ -6,3 +6,4 @@ resultado = a - b - c
 print("Resultado:", resultado)
 #
 # 
+..
